@@ -8,14 +8,14 @@ Warrior Deck:
 - Only one of each warrior can be face up at a time
 
 Spell Deck:
-- 15 cards
+- 15 spell cards
 - Both players get the same spell deck
 - The spell deck has a randomized order and must be played in order
 - Once a spell is used it cannot be used again
 - No mana cost
 
 Castle Deck:
-- 3 cards
+- 3 castle cards
 - Both players get to choose their castles before starting
 - Only the active castle is revealed
 
@@ -25,18 +25,20 @@ Castle Deck:
 
 ## Combat
 - During each players turn they can summon warriors, attack, or use spells in any combination
-- When warriors attack each other there is a damage exchange based on their attack and hp stats
+- When warriors attack each other, there is a damage exchange based on their attack and hp stats
 - During the attackers turn, they attack with that warriors special attribute
 
 ## Goal
 - Take over 3 castles from your opponent
 - To take over a castle, you need to have at least 3 warriors standing while your opponent has 0
 
+---
+
 # Cards
 Warrior Cards
 | Card Name | Card Pic | Mana Cost | Attack/HP | Description                                                                                                                                                                           |
 |-----------|----------|-----------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vagabond  |          | 1         | 1/1       |                                                                                                                                                                          |
+| Vagabond  |          | 1         | 1/1       |                                                                                                                                                                                       |
 | Knight    |          | 6         | 6/6       | When this Warrior attacks another Warrior, all surrounding Warriors' health is reduced by 1 health point.                                                                             |
 | Zombie    |          | 2         | 1/1       | when this Warrior attacks another Warrior, that Warrior's health is reduced to 1 health point.                                                                                        |
 | Troll     |          | 3         | 4/2       |                                                                                                                                                                                       |
