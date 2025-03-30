@@ -1,10 +1,36 @@
 # Rules
-- Goal: Take over 3 of the opponents castles
-- Both players are given the same 15 warrior cards and 15 spell cards to form their warrior and spell deck
-- Spell deck order is randomized, once a spell is used it can't be used again
-- Players take turns choosing castle cards
-- Mana: Mana starts at 1 and goes up by 1 every turn indefinitely.
-- Turns: When it’s a player's turn to move, they can summon warriors, cast spells, and attack during that turn. When the players warrior attacks an opponent's warrior, it attacks using their unique ability if they have one. If the opponent is attacking the players warrior, it 
+
+## Decks
+Warrior Deck: 
+- 15 warrior cards
+- Both players get the same warrior deck
+- Can summon any warrior as long as you have enough mana
+- Only one of each warrior can be face up at a time
+
+Spell Deck:
+- 15 cards
+- Both players get the same spell deck
+- The spell deck has a randomized order and must be played in order
+- Once a spell is used it cannot be used again
+- No mana cost
+
+Castle Deck:
+- 3 cards
+- Both players get to choose their castles before starting
+- Only the active castle is revealed
+
+## Mana
+- On turn 1 both players have 1 mana each
+- Mana count refreshes and goes up by 1 every turn infinitely
+
+## Combat
+- During each players turn they can summon warriors, attack, or use spells in any combination
+- When warriors attack each other there is a damage exchange based on their attack and hp stats
+- During the attackers turn, they attack with that warriors special attribute
+
+## Goal
+- Take over 3 castles from your opponent
+- To take over a castle, you need to have at least 3 warriors standing while your opponent has 0
 
 # Cards
 Warrior Cards
