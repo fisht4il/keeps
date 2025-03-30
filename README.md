@@ -10,7 +10,7 @@
 Warrior Cards
 | Card Name | Card Pic | Mana Cost | Attack/HP | Description                                                                                                                                                                           |
 |-----------|----------|-----------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vagabond  |          | 1         | 1/1       | (need spell)                                                                                                                                                                          |
+| Vagabond  |          | 1         | 1/1       |                                                                                                                                                                          |
 | Knight    |          | 6         | 6/6       | When this Warrior attacks another Warrior, all surrounding Warriors' health is reduced by 1 health point.                                                                             |
 | Zombie    |          | 2         | 1/1       | when this Warrior attacks another Warrior, that Warrior's health is reduced to 1 health point.                                                                                        |
 | Troll     |          | 3         | 4/2       |                                                                                                                                                                                       |
