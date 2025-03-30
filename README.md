@@ -52,10 +52,10 @@ Castle Cards
 | Fortress         |          | your opponent needs to have at least 2 Warriors on the field in order to take this card                                    |
 | Stronghold       |          | when this card is taken, kill one Warrior your opponent controls at random.                                                |
 | Cave             |          | when this card is taken, summon 1 Dragon Card next turn.  Lose an extra Castle.                                            |
-| Mine             |          | while this card is currently face up, you get 1 extra mana per turn.                                                       |
+| Mine             |          |                                                                                                                            |
 | Castle           |          | Summon a free 3 Mana Warrior.                                                                                              |
 | Mountain         |          | When this card is taken, the target Warrior your opponent controls can’t attack next turn.                                 |
-| Enchanted Forest |          | (Healer role) (revival)                                                                                                    |
+| Enchanted Forest |          | When this card is taken, the player can choose to revive one of their warriors that has died in the last turn              |
 | Dark Forest      |          | when this card is taken, summon 1 Witch Card next turn.                                                                    |
 | River Mill       |          | your opponent can capture this card with only 2 Warriors, if they do you get 5 mana next turn.                             |
 | Desert           |          | Your opponent captures this card with 1 Warrior that they choose. When your opponent captures this car, that Warrior dies. |
