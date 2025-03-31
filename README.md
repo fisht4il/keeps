@@ -50,10 +50,10 @@ Warrior Cards
 | Elf       |          | 2         | 1/3       | When an opponent attacks a Warrior you control, that Warrior gets +1H.  Activate this ability once per turn. If multiple targets are being attacked, you may choose who gets the +1H. |
 | Turtle    |          | 4         | 1/6       |                                                                                                                                                                                       |
 | Mage      |          | 3         | 2/3       | add one mana to your mana pool this turn                                                                                                                                              |
-| Dragon    |          | 8         | 8/8       | When the dragon attacks, the dragon fireball is 4 damage.                                                                                                                             |
+| Dragon    |          | 8         | 8/8       | When the dragon attacks, all of the opponents active warriors take 1 damage of afterburn the same turn                                                                                |
 | Rogue     |          | 3         | 3/2       | Rogue can attack twice if it is at 1 hp. (you need a healer to make this effective)                                                                                                   |
 | Plant     |          | 1         | 1/2       | 2 mana: increase Plant’s +1A or +1H.                                                                                                                                                  |
-| Mercenary |          | 2         | x/x       | At the beginning of your turn choose: Mercenary gets 3A/2H or Mercenary gets 2A/4H.                                                                                                       |
+| Mercenary |          | 2         | x/x       | At the beginning of your turn choose: Mercenary gets 3A/2H or Mercenary gets 2A/4H.                                                                                                   |
 
 Spell Cards
 | #  | Card Name           | Card Pic | Description                                                                                                                        |
