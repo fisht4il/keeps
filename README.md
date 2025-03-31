@@ -52,7 +52,7 @@ Warrior Cards
 | Dragon    |          | 8         | 8/8       | When the dragon attacks, the dragon fireball is 4 damage.                                                                                                                             |
 | Rogue     |          | 3         | 3/2       | Rogue can attack twice if it is at 1 hp. (you need a healer to make this effective)                                                                                                   |
 | Plant     |          | 1         | 1/2       | 2 mana: increase Plant’s +1A or +1H.                                                                                                                                                  |
-| Mercenary |          | 2         | x/x       | At the beginning of your turn choose: Soldier gets 3A/2H or Soldier gets 2A/4H.                                                                                                       |
+| Mercenary |          | 2         | x/x       | At the beginning of your turn choose: Warrior gets 3A/2H or Warrior gets 2A/4H.                                                                                                       |
 
 Spell Cards
 | #  | Card Name           | Card Pic | Description                                                                                                                        |
