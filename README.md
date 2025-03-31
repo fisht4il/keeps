@@ -22,6 +22,7 @@ Castle Deck:
 ## Mana
 - On turn 1 both players have 1 mana each
 - Mana count refreshes and goes up by 1 every turn infinitely
+- Unspent mana is not transferred to the next turn
 
 ## Combat
 - During each players turn they can summon warriors, attack, or use spells in any combination
