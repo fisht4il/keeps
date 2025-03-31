@@ -55,23 +55,23 @@ Warrior Cards
 | Mercenary |          | 2         | x/x       | At the beginning of your turn choose: Soldier gets 3A/2H or Soldier gets 2A/4H.                                                                                                       |
 
 Spell Cards
-| Card Name           | Card Pic | Description                                                                                                                         |
-|---------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Force Field         |          | Enemy player can’t storm a castle this turn                                                                                         |
-| Big Elixir          |          | Get 2 extra mana this turn                                                                                                          |
-| Small Elixir        |          | Get 1 extra mana this turn                                                                                                          |
-| Maximum Enhancement |          | Boost stats of 1 Warrior by +1/+1.                                                                                                  |
-| Big Breast Plate    |          | Select 1 warrior on the field, that warrior gets +3 HP.                                                                             |
-| Big Sword           |          | Select 1 warrior on the field, that warrior gets +2 attack.                                                                         |
-| The Final Push      |          | Target Warrior cannot die this turn. Then it dies next turn.                                                                        |
-| Fireball            |          | Deal 1 to target Warrior.                                                                                                           |
-| Revival             |          | choose the target Warrior that died last turn, pay its mana cost and summon it back to the battlefield.                             |
-| Zombie Swarm        |          | Up to 3 Warriors turn to zombies, they all die next turn.                                                                           |
-| Turn to Crime       |          | target Warrior your opponent controls becomes a Vagabond.                                                                           |
-| King of Thieves     |          | Choose a Warrior target opponent controls.  Vagabond you control on the field becomes that creature.  Opponent loses that creature  |
-| Pit                 |          | Choose Warrior target opponent control.  That Warrior cannot attack this turn.                                                      |
-| Regenerate          |          | Regenerate health target Warrior you control.                                                                                       |
-| Amory               |          | Target creature gets +5 hp.  It cannot be regenerated.                                                                              |
+| #  | Card Name           | Card Pic | Description                                                                                                                        |
+|----|---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Force Field         |          | Enemy player can’t storm a castle this turn                                                                                        |
+| 2  | Big Elixir          |          | Get 2 extra mana this turn                                                                                                         |
+| 3  | Small Elixir        |          | Get 1 extra mana this turn                                                                                                         |
+| 4  | Maximum Enhancement |          | Boost stats of 1 Warrior by +1/+1.                                                                                                 |
+| 5  | Big Breast Plate    |          | Select 1 warrior on the field, that warrior gets +3 HP.                                                                            |
+| 6  | Big Sword           |          | Select 1 warrior on the field, that warrior gets +2 attack.                                                                        |
+| 7  | The Final Push      |          | Target Warrior cannot die this turn. Then it dies next turn.                                                                       |
+| 8  | Fireball            |          | Deal 1 to target Warrior.                                                                                                          |
+| 9  | Revival             |          | choose the target Warrior that died last turn, pay its mana cost and summon it back to the battlefield.                            |
+| 10 | Zombie Swarm        |          | Up to 3 Warriors turn to zombies, they all die next turn.                                                                          |
+| 11 | Turn to Crime       |          | target Warrior your opponent controls becomes a Vagabond.                                                                          |
+| 12 | King of Thieves     |          | Choose a Warrior target opponent controls. Vagabond you control on the field becomes that creature.  Opponent loses that creature  |
+| 13 | Pit                 |          | Choose Warrior target opponent control. That Warrior cannot attack this turn.                                                      |
+| 14 | Regenerate          |          | Regenerate health target Warrior you control.                                                                                      |
+| 15 | Amory               |          | Target creature gets +5 hp. It cannot be regenerated.                                                                              |
 
 Castle Cards
 | Card Name        | Card Pic | Description                                                                                                                |
