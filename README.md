@@ -72,7 +72,7 @@ Spell Cards
 | 12 | King of Thieves     |          | Choose a Warrior target opponent controls. Vagabond you control on the field becomes that creature.  Opponent loses that creature  |
 | 13 | Pit                 |          | Choose Warrior target opponent control. That Warrior cannot attack this turn.                                                      |
 | 14 | Regenerate          |          | Regenerate health target Warrior you control.                                                                                      |
-| 15 | Amory               |          | Target creature gets +5 hp. It cannot be regenerated.                                                                              |
+| 15 | Amory               |          | All active warriors get +1 hp. It cannot be regenerated.                                                                           |
 
 Castle Cards
 | Card Name        | Card Pic | Description                                                                                                                |
