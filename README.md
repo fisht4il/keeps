@@ -82,7 +82,7 @@ Castle Cards
 | Stronghold       |          | when this card is taken, kill one Warrior your opponent controls at random.                                                |
 | Cave             |          | when this card is taken, summon 1 Dragon Card next turn.  Lose an extra Castle.                                            |
 | Mine             |          |                                                                                                                            |
-| Castle           |          | Summon a free 3 Mana Warrior.                                                                                              |
+| Castle           |          | when this card is taken, summon a free 3 Mana Warrior.                                                                     |
 | Mountain         |          | When this card is taken, the target Warrior your opponent controls can’t attack next turn.                                 |
 | Enchanted Forest |          | When this card is taken, the player can choose to revive one of their warriors that has died in the last turn              |
 | Dark Forest      |          | when this card is taken, summon 1 Witch Card next turn.                                                                    |
